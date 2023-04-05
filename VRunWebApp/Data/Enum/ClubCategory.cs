@@ -12,5 +12,6 @@
         Endurance,
         Ultra,
         IronMan,
+        ParkRun
     }
 }

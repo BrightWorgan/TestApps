@@ -11,4 +11,3 @@ namespace VRunWebApp.Models
         public string Country { get; set; }
     }
 }
-                   
